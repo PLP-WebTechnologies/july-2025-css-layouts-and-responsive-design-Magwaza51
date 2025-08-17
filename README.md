@@ -48,4 +48,84 @@ The code should demonstrate:
 * Code readability, organization, and best practices
 * Creativity and attention to layout detail
 
+---
+
+# SparkleClean - Home Deep Cleaning Services
+
+## Assignment: CSS Layouts & Responsive Web Design
+
+### Overview
+This project is part of the **CSS Layouts & Responsive Web Design** assignment. The goal was to create a **responsive multi-section webpage** using **Flexbox** and **CSS Grid** while applying **Responsive Web Design (RWD)** principles. The webpage adapts across **desktop, tablet, and mobile devices** and demonstrates clean, professional design and layout.
+
+---
+
+### Objective
+The webpage meets the assignment objectives by:
+
+- Using **CSS Grid** for the main layout (sidebar + content area)
+- Using **Flexbox** for 1D layouts such as service cards and testimonials
+- Including **multiple sections**: header, navigation, hero, content area, sidebar, testimonials, booking form, and footer
+- Applying **media queries** and **flexible units** to ensure responsiveness
+- Demonstrating thoughtful content placement and layout precision
+
+---
+
+### Features & Guideline Compliance
+
+| Assignment Guideline | Implementation |
+|---------------------|----------------|
+| **Structuring content using Flexbox for 1D layouts** | Flexbox used for **service cards**, **hero section**, and **testimonial cards** |
+| **Using CSS Grid for complex 2D layouts** | CSS Grid used for **main page layout**: sidebar + content area |
+| **Applying responsive design with media queries** | Media queries added for **992px and 600px breakpoints** for desktop, tablet, and mobile |
+| **Multiple sections** | Includes **header, navigation bar, hero, content, sidebar, testimonials, booking form, footer** |
+| **No CSS frameworks or libraries** | Styling done entirely with **custom CSS** |
+| **Clean, maintainable CSS structure with comments** | CSS is **organized, commented**, and uses **responsive units** (`%, rem, vw`) |
+| **Professional images** | Service and hero images are **large and visually appealing** (`.added-image`) |
+| **Interactive UI elements** | Buttons have **hover effects** for better UX |
+
+---
+
+### Technologies Used
+
+- **HTML5**: Semantic multi-section structure
+- **CSS3**: Flexbox, Grid, media queries, responsive units
+- **No frameworks**: Custom raw CSS styling
+
+---
+
+### How to Use
+
+1. Clone or download the project repository.
+2. Open `index.html` in a modern web browser.
+3. Ensure all images are in the project folder and linked correctly.
+4. Update service content, contact info, or images if desired.
+
+---
+
+### Contact
+
+- **Email:** [mlungisimagwaza51@gmail.com](mailto:mlungisimagwaza51@gmail.com)  
+- **Phone:** [0724062579](tel:0724062579)
+
+---
+
+### Author
+
+**Mlungisi Magwaza**  
+- Frontend Developer & CSS Enthusiast  
+- Email: [mlungisimagwaza51@gmail.com](mailto:mlungisimagwaza51@gmail.com)  
+- Phone: 0724062579  
+ 
+ ---
+
+### Screenshots
+
+**Desktop View**  
+![Desktop View](images/desktop-view.png)
+
+**Tablet View**  
+![Tablet View](images/tablet-view.png)
+
+**Mobile View**  
+![Mobile View](images/mobile-view.png)
 
